@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DEEPTI-BUSENNAGARI
 - you can call me deeps :)
 - 👀 I’m interested in ... creating problems '.'
-- 🌱 I’m currently learning ... c++ 
+- 🌱 I’m currently learning ... AI/ML
 - 💞️ I’m looking to collaborate on something new...
 - 📫 How to reach me ... 6302417616 u can call me here... 
 
