@@ -12,7 +12,7 @@
 
 🔭 I’m currently working on AI/ML, Deep Learning Projects
 
-🌱 I’m currently learning about more about the fascinating world of AI/ML
+🌱 I’m currently learning more about the fascinating world of AI/ML
 
 💬 Ask me about ... Anything
 
