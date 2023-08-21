@@ -7,7 +7,7 @@
 
 <p align="center">👩‍💻 Developer | 🎨 Designer | 🤖 ML Enthusiast</p>
 <br>
-<img align='right' src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="300">
+<img align='right' src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400">
 </em></p>
 
 🔭 I’m currently working on AI/ML, Deep Learning Projects
