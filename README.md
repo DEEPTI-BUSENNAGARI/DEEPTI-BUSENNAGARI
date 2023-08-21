@@ -19,7 +19,7 @@
 😄 Pronouns: She/Her
 
 ⚡ Language : I speak 5 languages ( English, Hindi ,Tamil ,Telgu , Korean)
-
+<br>
 ### 📫 Wana chat ?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
