@@ -18,7 +18,7 @@
 
 😄 Pronouns: She/Her
 
-⚡ Language : I speak 5 languages ( English, Hindi ,Tamil ,Telgu , Korean)
+⚡ Language : I speak 5 languages ( English, Hindi ,Tamil ,Telugu , Korean)
 <br>
 ### 📫 Wana chat ?
 
